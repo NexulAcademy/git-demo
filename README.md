@@ -1,4 +1,4 @@
 # git-demo
 workshop demo of git
 
-changes on github.com
+changes on local
