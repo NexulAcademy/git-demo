@@ -1,3 +1,3 @@
 function doX (x) {
-    console.log('hi world 2');
+    console.log('hi world');
 }
