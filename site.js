@@ -1,4 +1,4 @@
-function dog () {
-    console.log('hi world');
+function cat() {
+    console.log('Meow world');
 }
-dog()
+cat();
