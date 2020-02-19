@@ -1,4 +1,4 @@
-function dog () {
+function dogx () {
     console.log('hi world');
 }
-dog()
+dogx()
