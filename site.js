@@ -1,3 +1,4 @@
-function doX (x) {
+function dog () {
     console.log('hi world');
 }
+dog()
