@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+# The Useless Letters
+e
+z
+v
+c
 # Object files
 *.o
 *.ko
