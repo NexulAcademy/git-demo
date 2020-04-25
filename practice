@@ -3,15 +3,26 @@ This is practice
 Alphie added this
 Trying to add something
 <<<<<<< HEAD
+<<<<<<< HEAD
 Yulia added
 
 
 new edits
+=======
+Yulia added
+
+
+>>>>>>> feature-x
 
 
 
 
+<<<<<<< HEAD
 Feature-x here
 =======
 Yulia added
 >>>>>>> dev
+=======
+Another feature added
+Feature-x
+>>>>>>> feature-x
